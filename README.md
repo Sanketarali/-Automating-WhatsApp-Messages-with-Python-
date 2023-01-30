@@ -1,4 +1,4 @@
-# Sanketarali-WhatsApp-Message-Using-Python
+# WhatsApp-Message-Using-Python
 A python library to automate WhatsApp messages using the pywhatkit library.
 
 
@@ -6,6 +6,10 @@ A python library to automate WhatsApp messages using the pywhatkit library.
 Use the package manager pip to install PyWhatKit.
 
 pip install pywhatkit
+
+
+# Usage
+To send a WhatsApp message, simply call the sendwhatmsg function from the PyWhatkit library and pass in the following parameters:
 
 # Result
 ![result](https://github.com/Sanketarali/WhatsApp-Message-Using-Python/blob/main/Screenshot%20(2325).png)
