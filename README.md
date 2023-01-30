@@ -21,4 +21,4 @@ To send a WhatsApp message, simply call the sendwhatmsg function from the PyWhat
 Please note that WhatsApp has policies against the use of automated messaging, and it is not allowed to send large number of messages for any commercial or non-personal use.
 
 # Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to chang
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change
