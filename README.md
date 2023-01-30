@@ -8,7 +8,7 @@ Use the package manager pip to install PyWhatKit.
 pip install pywhatkit
 
 # Result
-![result](https://github.com/Sanketarali/Mobile-Number-Info/blob/main/Screenshot%20(2324).png)
+![result](https://github.com/Sanketarali/WhatsApp-Message-Using-Python/blob/main/Screenshot%20(2325).png)
 
 
 
